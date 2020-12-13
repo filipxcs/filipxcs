@@ -1,6 +1,6 @@
 ### Hi there, I'm Filipou petros - aka [Filip]
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student!
 
 - 🔭 I’m currently working on a Fivem Server Project!
 - 🌱 I’m currently learning Fullstack.
