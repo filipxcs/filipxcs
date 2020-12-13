@@ -113,10 +113,10 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=dark" />
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=dracula" />
 </a>
 
 ---
