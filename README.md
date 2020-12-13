@@ -113,12 +113,11 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.vercel.app/api?username=filipxcs&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filipxcs&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
-<a href="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipxcs)](https://github.com/filipxcs/github-readme-stats)">
-  <img align="center" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipxcs)](https://github.com/filipxcs/github-readme-stats)" />
+<a href="https://github-readme-stats.filipxcs.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.filipxcs.vercel.app/api?username=filipxcs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.filipxcs.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.filipxcs.vercel.app/api/top-langs/?username=filipxcs&layout=compact&theme=radical" />
 </a>
-
 
 ---
 
