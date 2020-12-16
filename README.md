@@ -1,4 +1,4 @@
-### Hi there, I'm Filipou petros - aka [Filip]
+### Hi there, I'm Filippou Petros - aka [Filip]
 
 ## I'm a Student!
 
